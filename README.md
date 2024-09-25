@@ -1,2 +1,1 @@
-# matplotlib-challenge
- 
+Code created with assistance from ChatGPT
